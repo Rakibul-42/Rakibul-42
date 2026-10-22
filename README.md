@@ -47,4 +47,4 @@ I build web apps and AI-driven tools, mostly with the JavaScript ecosystem. I ta
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ## 🔝 Top Contributed Repo
-[![BillUtilityAI](https://github-readme-stats.vercel.app/api/pin/?username=Rakibul-42&repo=BillUtilityAI&theme=tokyonight)](https://github.com/Rakibul-42/BillUtilityAI)
+[![BillUtility-open](https://github-readme-stats.vercel.app/api/pin/?username=Rakibul-42&repo=BillUtility-open&theme=tokyonight)](https://github.com/Rakibul-42/BillUtility-open)
